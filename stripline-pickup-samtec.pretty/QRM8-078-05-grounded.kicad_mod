@@ -1,4 +1,4 @@
-(module QRM8-078-05-grounded (layer F.Cu) (tedit 5DD86156)
+(module QRM8-078-05-grounded (layer F.Cu) (tedit 5E6EC719)
   (fp_text reference SC1 (at 1.016 -5.842 -180) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -166,8 +166,8 @@
   (pad 153 smd rect (at 78.704 -5.687) (size 0.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 156 smd rect (at 79.504 -8.537) (size 0.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 155 smd rect (at 79.504 -5.687) (size 0.5 1.5) (layers F.Cu F.Paste F.Mask))
-  (pad "" np_thru_hole circle (at 81.354 -7.612) (size 1.2 1.2) (drill 1.131) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 8.054 -7.612) (size 1.2 1.2) (drill 1.131) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 81.354 -7.612) (size 1.2 1.2) (drill 1.131) (layers *.Cu *.Mask))
+  (pad "" thru_hole circle (at 8.054 -7.612) (size 1.2 1.2) (drill 1.131) (layers *.Cu *.Mask))
   (pad 6 smd rect (at 11.504 -8.537) (size 0.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 9.904 -5.687) (size 0.5 1.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 9.904 -8.537) (size 0.5 1.5) (layers F.Cu F.Paste F.Mask))
